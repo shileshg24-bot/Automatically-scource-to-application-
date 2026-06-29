@@ -1,0 +1,6 @@
+{
+  "name": "NDK QR Pro",
+  "description": "A high-performance Android QR Code suite with Core JNI C++ NDK generation, steganography, blending, and built-in CameraX scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
