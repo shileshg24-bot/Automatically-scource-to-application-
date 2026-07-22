@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BN AI</string>
+    <string name="accessibility_service_description">BN AI Voice Assistant service for hands-free device control, opening apps, and screen interaction.</string>
+    <string name="initial_greeting">Hi, I\'m BN AI. How can I help you?</string>
+</resources>

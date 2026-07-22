@@ -1,0 +1,6 @@
+{
+  "name": "BN AI Voice Assistant",
+  "description": "AI-powered voice assistant like Jarvis with 3D animated sound wave interface, real-time voice synthesis, device accessibility control, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
