@@ -42,7 +42,8 @@ class TextToSpeechManager(context: Context) : TextToSpeech.OnInitListener {
                 Log.e(TAG, "TTS Language US is not supported or missing data.")
             } else {
                 tts?.setPitch(1.05f) // Slightly higher tone for clear voice
-                tts?.setSpeechRate(1.0f)
+                tts?.setSpeechRate(1.05f)
+        tts?.setPitch(0.95f)
 
                 // Select a natural sounding voice if available
                 tts?.voices?.find { voice ->
