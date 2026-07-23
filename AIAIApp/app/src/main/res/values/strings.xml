@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gemini Assistant</string>
+    <string name="accessibility_service_description">Allows Gemini Assistant to press Back/Home/Recents and read screen content when you ask it to control the device.</string>
+</resources>
