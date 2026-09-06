@@ -1,1 +1,0 @@
-import{T as o}from"./index-BywI3krw.js";const n=t=>{if(!t)return;const e=document.createElement("input");e.setAttribute("readonly","readonly"),e.setAttribute("value",t.toLocaleString()),document.body.appendChild(e),e.select(),document.execCommand("Copy"),document.body.removeChild(e),o.showSuccessToast("copySuccess")};export{n as c};
